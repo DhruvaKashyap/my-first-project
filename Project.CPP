@@ -34,9 +34,9 @@
     "A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"
     "a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"
     "KOTE","ISHAPPY","ISSAD","ISHUNGRY","ISNTSAFE" ,"YES","BOAT","VIRUS","MORNING","SOMEONE"
-    "FOOD","LUXURY","SYLLABLE","MARGARET","THATCHER","RENEGADE","BOISTROUS","QAUSIMODO","HELLFIRE","PUTIN"
+    "FOOD","LUXURY","SYLLABLE","MARGARET","THATCHER","RENEGADE","BOISTROUS","QAUSIMODO","HELLFIRE",
     "HARAMBE","FOX","BLOOD","SWIFT","WALL","DRAGONS","ELDORADO","SONOROUS","BLINK","NO","SOUND",
-    "MUMBO","SILLY","WILL","HITLER","EASY","HELP","YOU","ME","MINE","POKE","PHONE","WHAT",
+    "MUMBO","SILLY","WILL","STALIN","EASY","HELP","YOU","ME","MINE","POKE","PHONE","WHAT",
     "HOW","LEAVE","LOVE","EAT","MY","FACE","COAL","METHANE","MOLTEN","LISTEN","PLEASE",
     "POUCH","PARROT","SLEEP","CALL","PRINCIPLE","SOLUTION","SCARED","BENZENE","MAN","BEAR",
     "COW","PIG","CROW","HOGWARTS"
